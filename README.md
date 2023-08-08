@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/211988-3115580799.gif" />
+     <img width="600" height="450" src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/211988-3115580799.gif" />
 </p>
 
 # Hi there! 👋 I'm Amin Pasandideh
@@ -8,12 +8,14 @@ I am a senior year computer science student at Ferdowsi University of Mashhad, f
 
 ## About Me
 
-- 🔭 I’m currently working on training a language model on chat history of Telegram
+- 🔭 I’m currently working on training a language model on a chat history of Telegram
 - 🌱 I’m currently learning more about nlp
 - 👯 I’m looking to collaborate on a transformer based ML project
-<br />
-<h2 align="center">Statistics 📊 </h2>
-<br />
+
+## Languages and Tools
+
+## Statistics 📊 
+
 
 <details>
     <summary>GitHub Profile Stats :octocat:</summary>
@@ -39,19 +41,12 @@ I am a senior year computer science student at Ferdowsi University of Mashhad, f
     <br/>
     <img src="https://komarev.com/ghpvc/?username=aminobutyric&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
+
+
+## Bleach Before Commit
 <p align="center">
-    <img alt="github cat gif" width="600" height="450" src="https://github.com/afsharino/afsharino/blob/main/images/animated/daftpunktocat-thomas.gif">
+    <img alt="bleach" width="600" height="450" src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/bleach.gif">
 </p>
-
-## Languages and Tools
-
-- Python
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-- ...
-
 
 ## Connect with Me
 
