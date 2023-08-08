@@ -1,3 +1,7 @@
+<p align="center">
+     <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/211988-3115580799.gif" />
+</p>
+
 # Hi there! 👋 I'm Amin Pasandideh
 
 I am a senior year computer science student at Ferdowsi University of Mashhad, focusing on data science and machine learning. Welcome to my GitHub profile!
