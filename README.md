@@ -13,6 +13,18 @@ I am a senior year computer science student at Ferdowsi University of Mashhad, f
 - 👯 I’m looking to collaborate on a transformer based ML project
 
 ## Languages and Tools
+<a href="https://www.python.org/" target="blank" rel="noopener noreferrer"> 
+<img src="https://github.com/afsharino/afsharino/blob/main/images/animated/python-icon.svg" alt="python-icon" width="65" height="65" /></a>
+<a href="https://www.codeblocks.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/afsharino/afsharino/raw/main/images/logos/C_Logo.png" alt="c-icon" width="65" height="65" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Tensorflow_logo.png" alt="Tensorflow-icon" width="65" height="65" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/afsharino/afsharino/blob/main/images/logos/PyTorch_logo.png" width="65" height="65" alt="pytorch-icon" /></a>
+<a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Keras_logo.png" width="65" height="65" alt="keras-icon" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Scikit_learn_logo.png" alt="scikit-learn-icon" width="65" height="65" /></a>
 
 ## Statistics 📊 
 
