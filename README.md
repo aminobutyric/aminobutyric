@@ -18,54 +18,54 @@ I am a senior year computer science student at Ferdowsi University of Mashhad, f
     <tr>
         <td align="center" width="96">
             <a href="https://www.python.org/" target="blank" rel="noopener noreferrer">  
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/python-logo.gif?raw=true" alt="python-icon"/>
+            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/39-396037_big-image-python-gif-file-logo-299785964.jpg" alt="python-icon"/>
             <br>Python</a>
         </td>
         <td align="center" width="96">
             <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/cpp-icon.svg" alt="cpp-icon" width="65" height="65" />
-          <br>C++</a>
+            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/C++.jpg?raw=true" alt="cpp-icon" width="65" height="65" />
+          <br>Cpp</a>
         </td>
         <td align="center" width="96">
             <a href="https://www.codeblocks.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/C_Logo.png" alt="c-icon" width="65" height="65" />
+            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/C.jpg" alt="c-icon" width="65" height="65" />
           <br>C</a>
         </td>
            <td align="center" width="96">
                <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Tensorflow_logo.png" alt="Tensorflow-icon" width="65" height="65" />
+               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/fi-xnsuxx-tensorflow-1767380591.jpg" alt="Tensorflow-icon" width="65" height="65" />
           <br>Tensorflow</a>
         </td>
       <td align="center" width="96">
           <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Keras_logo.png" width="65" height="65" alt="keras-icon" />
+          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/Keras.png" width="65" height="65" alt="keras-icon" />
           <br>Keras</a>
       </td>
         <td align="center" width="96">
           <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Scikit_learn_logo.png" alt="scikit-learn-icon" width="65" height="65" />
+           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/scikit-learn-logo.png" alt="scikit-learn-icon" width="65" height="65" />
           <br>Sk-Learn</a>
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
             <a href="https://www.fedoraproject.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/kde-logo.png" alt="ckde-plasma-icon" width="65" height="65" />
-          <br>KDE</a>
+            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/1024px-Fedora_logo.png" alt="ckde-plasma-icon" width="65" height="65" />
+          <br>Fedora</a>
         </td>
         <td align="center" width="96">
             <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/archlinux-logo.png" alt="archlinux-icon" width="65" height="65" />
+            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/arch.png" alt="archlinux-icon" width="65" height="65" />
           <br>Archlinux</a>
         </td>
            <td align="center" width="96">
                <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/Jupyter_logo.png" alt="Jupyter-icon" width="65" height="65" />
+               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/jupyter-logo-large-3078122532.png" alt="Jupyter-icon" width="65" height="65" />
           <br>Jupyter</a>
         </td>
       <td align="center" width="96">
           <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/numpy_Logo.png" width="65" height="65" alt="numpy-icon" />
+          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/numpy-3075279910.png" width="65" height="65" alt="numpy-icon" />
           <br>Numpy</a>
       </td>
       <td align="center" width="96">
