@@ -38,7 +38,7 @@ I am a senior year computer science student at Ferdowsi University of Mashhad, f
         </td>
       <td align="center" width="96">
           <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/Keras.png" width="65" height="65" alt="keras-icon" />
+          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/Keras2.png" width="65" height="65" alt="keras-icon" />
           <br>Keras</a>
       </td>
         <td align="center" width="96">
@@ -70,39 +70,44 @@ I am a senior year computer science student at Ferdowsi University of Mashhad, f
       </td>
       <td align="center" width="96">
           <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/pandas_Logo.png" width="65" height="65" alt="pandas-icon" />
+          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/442-4429904_pandas-python-logo-png-pandas-python-logo-transparent-1078239420.jpg" width="65" height="65" alt="pandas-icon" />
           <br>Pandas</a>
+      </td>
+         <td align="center" width="96">
+          <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/opencv.jpg" width="65" height="65" alt="pandas-icon" />
+          <br>OpenCV</a>
       </td>
     </tr>
     <tr>
         <td align="center" width="96">
           <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/matplot_Logo.png" alt="matplotlib-icon" width="65" height="65" />
+           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/matplotlib.png" alt="matplotlib-icon" width="65" height="65" />
           <br>Matplotlib</a>
         </td>
         <td align="center" width="96">
             <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/seaborn_Logo.png" alt="seaborn-icon" width="65" height="65" />
+            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/seaborn-logo-3491407845.png" alt="seaborn-icon" width="65" height="65" />
           <br>Seaborn</a>
         </td>
         <td align="center" width="96">
             <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/vscode_Logo.png" alt="vscode-icon" width="65" height="65" />
+            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/vs.jpg" alt="vscode-icon" width="65" height="65" />
           <br>VSCode</a>
         </td>
            <td align="center" width="96">
                <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/mysql-icon.svg" alt="mysql-icon" width="65" height="65" />
+               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/mysql.png" alt="mysql-icon" width="65" height="65" />
           <br>MySQL</a>
         </td>
        <td align="center" width="96">
            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/github-icon.svg" width="65" height="65" alt="github-icon" />
+           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/github.jpg" width="65" height="65" alt="github-icon" />
           <br>Github</a>
        </td>
       <td align="center" width="96">
           <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/Git-Icon-1788C.png" width="65" height="65" alt="git-icon" />
+          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/git.png" width="65" height="65" alt="git-icon" />
           <br>Git</a>
       </td>
     </tr>
