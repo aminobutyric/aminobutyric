@@ -10,7 +10,7 @@ I am a senior year computer science student at Ferdowsi University of Mashhad, f
 
 - 🔭 I’m currently working on training a language model on a chat history of Telegram
 - 🌱 I’m currently learning more about nlp
-- 👯 I’m looking to collaborate on a transformer based ML project
+- 👯 I’m looking to collaborate on any ML project
 
 ## Languages and Tools
 <a href="https://www.python.org/" target="blank" rel="noopener noreferrer"> 
