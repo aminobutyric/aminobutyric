@@ -147,11 +147,6 @@ I am a senior year computer science student at Ferdowsi University of Mashhad, f
     <img alt="bleach" width="600" height="450" src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/bleach.gif">
 </p>
 
-## Connect with Me
-
-- Twitter: [@dontyoudarebchh](your-twitter-url)
-- Email: aminpsit@gmail.com
-
 Feel free to explore my repositories to find more exciting projects!
 
 Let's connect and collaborate on interesting data science and machine learning projects. Looking forward to hearing from you!
