@@ -1,8 +1,9 @@
+## My GitHub Profile
+
 <p align="center">
      <img width="600" height="450" src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/211988-3115580799.gif" />
 </p>
 
-## Amin’s GitHub Profile
 
 ## About Me
 
