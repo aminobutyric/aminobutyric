@@ -9,9 +9,9 @@
 
 I am a B.Sc. graduate from Ferdowsi University of Mashhad, with a keen interest in data science and machine learning. Whether it’s analyzing datasets, building predictive models, or creating visualizations, count me in! Let’s connect and make data-driven magic happen.
 
-## Current Projects
+# Current Projects
 
-## 1. NEAT (NeuroEvolution of Augmenting Topologies)
+# 1. NEAT (NeuroEvolution of Augmenting Topologies)
 NEAT is a fascinating algorithm that combines neural networks and genetic algorithms. It evolves neural network architectures by adding and removing nodes and connections. I’m actively working on this project to understand its inner workings and apply it to various tasks.
 
 ## 2. Exploring Large Language Models
