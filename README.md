@@ -2,15 +2,19 @@
      <img width="600" height="450" src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/211988-3115580799.gif" />
 </p>
 
-# Hi there! 👋 I'm Amin
-
-I am a senior year computer science student at Ferdowsi University of Mashhad, focusing on data science and machine learning. Welcome to my GitHub profile!
+## Amin’s GitHub Profile
 
 ## About Me
 
-- 🔭 I’m currently working on training a language model on a chat history of Telegram
-- 🌱 I’m currently learning more about nlp
-- 👯 I’m looking to collaborate on any ML project
+I am a B.Sc. graduate from Ferdowsi University of Mashhad, with a keen interest in data science and machine learning. Whether it’s analyzing datasets, building predictive models, or creating visualizations, count me in! Let’s connect and make data-driven magic happen.
+
+## Current Projects
+
+1. NEAT (NeuroEvolution of Augmenting Topologies)
+NEAT is a fascinating algorithm that combines neural networks and genetic algorithms. It evolves neural network architectures by adding and removing nodes and connections. I’m actively working on this project to understand its inner workings and apply it to various tasks.
+
+2. Exploring Large Language Models
+As the field of natural language processing (NLP) evolves, large language models have become a hot topic. I’m diving into open-source models like GPT-3 and exploring their capabilities. Feel free to join me on this journey!
 
 
 ## Languages and Tools
