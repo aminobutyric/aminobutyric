@@ -11,10 +11,10 @@ I am a B.Sc. graduate from Ferdowsi University of Mashhad, with a keen interest 
 
 ## Current Projects
 
-1. NEAT (NeuroEvolution of Augmenting Topologies)
+## 1. NEAT (NeuroEvolution of Augmenting Topologies)
 NEAT is a fascinating algorithm that combines neural networks and genetic algorithms. It evolves neural network architectures by adding and removing nodes and connections. I’m actively working on this project to understand its inner workings and apply it to various tasks.
 
-2. Exploring Large Language Models
+## 2. Exploring Large Language Models
 As the field of natural language processing (NLP) evolves, large language models have become a hot topic. I’m diving into open-source models like GPT-3 and exploring their capabilities. Feel free to join me on this journey!
 
 
