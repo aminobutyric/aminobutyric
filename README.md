@@ -25,10 +25,6 @@ Architecting an on-prem Lakehouse from the ground up and running distributed PyS
 ## GitHub Activity
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aminobutyric&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aminobutyric&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminobutyric&theme=minimal&hide_border=true" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=aminobutyric&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminobutyric&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
