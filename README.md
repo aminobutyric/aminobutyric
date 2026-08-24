@@ -1,149 +1,78 @@
-## My GitHub Profile
+<div align="center">
+  <img src="./assets/profile-header.svg" alt="Amin Pasandideh — Data Engineer" width="100%" />
 
-<p align="center">
-     <img width="600" height="450" src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/211988-3115580799.gif" />
-</p>
+  <br />
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-aminobutyric-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminobutyric/)
+  [![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aminpasandideh2000@gmail.com)
+  [![Location](https://img.shields.io/badge/Tehran%2C%20Iran-open%20to%20relocation-334155?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Tehran/)
+</div>
 
-# About Me
+## About me
 
-I'm a Data Engineer with 1.5+ years of experience designing and operating production data platforms — from architecting an on-prem Data Lakehouse to building pipelines that process over a billion records reliably. Currently pursuing an M.Sc. in Computer Science (Data Mining) at Shahid Beheshti University. I enjoy solving problems at the intersection of data infrastructure and machine learning, and I'm open to new opportunities — let's connect.
+I am a **Data Engineer** with 1.5+ years of hands-on experience designing, building, and operating production data platforms. My work spans lakehouse architecture, distributed processing, workflow orchestration, data quality, and the infrastructure that keeps it all reliable.
 
+I enjoy turning complex, high-volume data into dependable datasets for machine learning and analytics. My computer science and machine learning background helps me bridge the gap between platform engineering and downstream data consumers.
 
-# Languages and Tools
-<table align="center">
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.python.org/" target="blank" rel="noopener noreferrer">  
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/39-396037_big-image-python-gif-file-logo-299785964.jpg" alt="python-icon"/>
-            <br>Python</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/C++.jpg?raw=true" alt="cpp-icon" width="65" height="65" />
-          <br>Cpp</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.codeblocks.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/C.jpg" alt="c-icon" width="65" height="65" />
-          <br>C</a>
-        </td>
-           <td align="center" width="96">
-               <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/fi-xnsuxx-tensorflow-1767380591.jpg" alt="Tensorflow-icon" width="65" height="65" />
-          <br>Tensorflow</a>
-        </td>
-      <td align="center" width="96">
-          <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/Keras2.png" width="65" height="65" alt="keras-icon" />
-          <br>Keras</a>
-      </td>
-        <td align="center" width="96">
-          <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/scikit-learn-logo.png" alt="scikit-learn-icon" width="65" height="65" />
-          <br>Sk-Learn</a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.fedoraproject.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/1024px-Fedora_logo.png" alt="ckde-plasma-icon" width="65" height="65" />
-          <br>Fedora</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/arch.png" alt="archlinux-icon" width="65" height="65" />
-          <br>Archlinux</a>
-        </td>
-           <td align="center" width="96">
-               <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/jupyter-logo-large-3078122532.png" alt="Jupyter-icon" width="65" height="65" />
-          <br>Jupyter</a>
-        </td>
-      <td align="center" width="96">
-          <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/numpy-3075279910.png" width="65" height="65" alt="numpy-icon" />
-          <br>Numpy</a>
-      </td>
-      <td align="center" width="96">
-          <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/442-4429904_pandas-python-logo-png-pandas-python-logo-transparent-1078239420.jpg" width="65" height="65" alt="pandas-icon" />
-          <br>Pandas</a>
-      </td>
-         <td align="center" width="96">
-          <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/opencv.jpg" width="65" height="65" alt="pandas-icon" />
-          <br>OpenCV</a>
-      </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-          <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/matplotlib.png" alt="matplotlib-icon" width="65" height="65" />
-          <br>Matplotlib</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/seaborn-logo-3491407845.png" alt="seaborn-icon" width="65" height="65" />
-          <br>Seaborn</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/vs.jpg" alt="vscode-icon" width="65" height="65" />
-          <br>VSCode</a>
-        </td>
-           <td align="center" width="96">
-               <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/mysql.png" alt="mysql-icon" width="65" height="65" />
-          <br>MySQL</a>
-        </td>
-       <td align="center" width="96">
-           <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/github.jpg" width="65" height="65" alt="github-icon" />
-          <br>Github</a>
-       </td>
-      <td align="center" width="96">
-          <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/git.png" width="65" height="65" alt="git-icon" />
-          <br>Git</a>
-      </td>
-    </tr>
-</table>
+## Impact at a glance
 
-# Statistics 📊 
+| | |
+|---|---|
+| **1B+ records processed** | Built distributed PySpark workflows for recommendation-system training data |
+| **Lakehouse, end to end** | Took an on-premises MinIO-based Medallion architecture from proof of concept to production |
+| **Production orchestration** | Operated incremental ETL/ELT pipelines with Airflow scheduling, retries, monitoring, and failure handling |
+| **Reliable by design** | Established schema, integrity, drift, outlier, lifecycle, backup, and disaster-recovery controls |
 
+## Technical toolkit
 
-<details>
-    <summary>GitHub Profile Stats :octocat:</summary>
-    <br/>
-    <p align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aminobutyric&layout=compact&theme=tokyonight&show_icons=true" width="420" height="165"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aminobutyric&theme=tokyonight" width="420"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aminobutyric&theme=tokyonight&show_icons=true" width="400"/>
-    </p>
-    <br/>
-</details>
+**Data engineering**
 
-<details>
-    <summary>Activity Graph 📈</summary>
-    <br/>
-     <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminobutyric&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-     </p>
-</details>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white)
+![Apache Kafka (basic)](https://img.shields.io/badge/Kafka-basic-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
 
-<details>
-    <summary>Profile Views 👁️</summary>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=aminobutyric&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
+**Databases & storage**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=111827)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
 
-## Bleach Before Commit
-<p align="center">
-    <img alt="bleach" width="600" height="450" src="https://github.com/aminobutyric/aminobutyric/blob/main/image/pic/bleach.gif">
-</p>
+**Platform & operations**
 
-Feel free to explore my repositories to find more exciting projects!
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 
-Let's connect and collaborate on interesting data science and machine learning projects. Looking forward to hearing from you!
+## What I work on
+
+```text
+Sources           Ingestion & storage        Processing             Serving
+MongoDB / APIs ──► MinIO · Bronze layer ──► Spark · Delta Lake ──► ClickHouse · ML
+                       Airflow orchestration · quality controls · observability
+```
+
+- **Lakehouse architecture:** Bronze/Silver/Gold layers, ACID transactions, schema enforcement, versioning, time travel, and curated downstream datasets.
+- **Large-scale processing:** distributed joins, aggregations, temporal feature extraction, and business-rule transformations with Spark/PySpark.
+- **Data reliability:** validation for missing values, duplicates, outliers, schema drift, and referential integrity, plus Delta Lake `OPTIMIZE` and `VACUUM` lifecycle management.
+- **Platform operations:** Dockerized deployments, Linux administration, Nginx, monitoring automation, S3-compatible storage, and `rclone`-based recovery workflows.
+
+## Education
+
+- **M.Sc. in Computer Science — Data Mining**, Shahid Beheshti University · 2025–Present
+- **B.Sc. in Computer Science**, Ferdowsi University of Mashhad · 2019–2025
+
+## Beyond the pipeline
+
+My earlier work in machine learning includes feature engineering, supervised and unsupervised modeling, and end-to-end project delivery with scikit-learn, PyTorch, and TensorFlow. That experience shapes how I design datasets and platforms for real ML workloads—not just storage.
+
+<div align="center">
+  <sub>Interested in data platforms, distributed systems, and ML infrastructure? <a href="mailto:aminpasandideh2000@gmail.com">Let's connect.</a></sub>
+</div>
