@@ -7,15 +7,15 @@
 
 # About Me
 
-I am a B.Sc. graduate from Ferdowsi University of Mashhad, with a keen interest in data science and machine learning. Whether it’s analyzing datasets, building predictive models, or creating visualizations, count me in! Let’s connect and make data-driven magic happen.
+I'm a Data Engineer with 1.5+ years of experience designing, building, and operating a production **Data Lakehouse** — from proof of concept to a system running at billion-record scale, powering ML and analytics workloads. I'm currently an M.Sc. student in Computer Science (Data Mining) at Shahid Beheshti University, and hold a B.Sc. in Computer Science from Ferdowsi University of Mashhad. Whether it's architecting a Medallion Lakehouse, orchestrating Spark pipelines, or building ML models, count me in! Let's connect and make data-driven magic happen.
 
 # Current Projects
 
-### 1. NEAT (NeuroEvolution of Augmenting Topologies)
-NEAT is a fascinating algorithm that combines neural networks and genetic algorithms. It evolves neural network architectures by adding and removing nodes and connections. I’m actively working on this project to understand its inner workings and apply it to various tasks.
+### 1. On-Prem Data Lakehouse
+Architected and operate a MinIO-based Medallion Lakehouse (Bronze/Silver/Gold) from the ground up — Delta Lake tables with ACID transactions, schema enforcement, and time travel, feeding a production recommendation system trained on 1B+ records.
 
-### 2. Exploring Large Language Models
-As the field of natural language processing (NLP) evolves, large language models have become a hot topic. I’m diving into open-source models like GPT-3 and exploring their capabilities. Feel free to join me on this journey!
+### 2. Distributed PySpark Feature Pipelines
+Building distributed joins, aggregations, and temporal/behavioral feature extraction over billion-record datasets to produce training-ready data for ML systems.
 
 
 # Languages and Tools
@@ -27,83 +27,83 @@ As the field of natural language processing (NLP) evolves, large language models
             <br>Python</a>
         </td>
         <td align="center" width="96">
-            <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/C++.jpg?raw=true" alt="cpp-icon" width="65" height="65" />
-          <br>Cpp</a>
+            <a href="https://spark.apache.org/" target="_blank" rel="noopener noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark-icon" width="65" height="65" />
+          <br>PySpark</a>
         </td>
         <td align="center" width="96">
-            <a href="https://www.codeblocks.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/C.jpg" alt="c-icon" width="65" height="65" />
-          <br>C</a>
+            <a href="https://airflow.apache.org/" target="_blank" rel="noopener noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow-icon" width="65" height="65" />
+          <br>Airflow</a>
         </td>
            <td align="center" width="96">
-               <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/fi-xnsuxx-tensorflow-1767380591.jpg" alt="Tensorflow-icon" width="65" height="65" />
-          <br>Tensorflow</a>
+               <a href="https://delta.io/" target="_blank" rel="noopener noreferrer">
+               <img src="https://delta.io/static/delta-lake-logo-6a765d15020e6f39be62b52e934a49a3.svg" alt="delta-icon" width="65" height="65" />
+          <br>Delta Lake</a>
         </td>
       <td align="center" width="96">
-          <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/Keras2.png" width="65" height="65" alt="keras-icon" />
-          <br>Keras</a>
+          <a href="https://trino.io/" target="_blank" rel="noopener noreferrer">
+          <img src="https://trino.io/assets/trino-og.png" width="65" height="65" alt="trino-icon" />
+          <br>Trino</a>
       </td>
         <td align="center" width="96">
-          <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/scikit-learn-logo.png" alt="scikit-learn-icon" width="65" height="65" />
-          <br>Sk-Learn</a>
+          <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka-icon" width="65" height="65" />
+          <br>Kafka</a>
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://www.fedoraproject.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/1024px-Fedora_logo.png" alt="ckde-plasma-icon" width="65" height="65" />
-          <br>Fedora</a>
+            <a href="https://clickhouse.com/" target="_blank" rel="noopener noreferrer">
+            <img src="https://clickhouse.com/images/logos/logo-clickhouse.svg" alt="clickhouse-icon" width="65" height="65" />
+          <br>ClickHouse</a>
         </td>
         <td align="center" width="96">
-            <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/arch.png" alt="archlinux-icon" width="65" height="65" />
-          <br>Archlinux</a>
+            <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres-icon" width="65" height="65" />
+          <br>PostgreSQL</a>
         </td>
            <td align="center" width="96">
-               <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/jupyter-logo-large-3078122532.png" alt="Jupyter-icon" width="65" height="65" />
-          <br>Jupyter</a>
+               <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+               <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb-icon" width="65" height="65" />
+          <br>MongoDB</a>
         </td>
       <td align="center" width="96">
-          <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/numpy-3075279910.png" width="65" height="65" alt="numpy-icon" />
-          <br>Numpy</a>
+          <a href="https://min.io/" target="_blank" rel="noopener noreferrer">
+          <img src="https://min.io/resources/img/logo/MINIO_Bird.png" width="65" height="65" alt="minio-icon" />
+          <br>MinIO</a>
       </td>
       <td align="center" width="96">
-          <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/442-4429904_pandas-python-logo-png-pandas-python-logo-transparent-1078239420.jpg" width="65" height="65" alt="pandas-icon" />
-          <br>Pandas</a>
+          <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="65" height="65" alt="docker-icon" />
+          <br>Docker</a>
       </td>
          <td align="center" width="96">
-          <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/opencv.jpg" width="65" height="65" alt="pandas-icon" />
-          <br>OpenCV</a>
+          <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" width="65" height="65" alt="gitlab-icon" />
+          <br>GitLab CI/CD</a>
       </td>
     </tr>
     <tr>
         <td align="center" width="96">
-          <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/matplotlib.png" alt="matplotlib-icon" width="65" height="65" />
-          <br>Matplotlib</a>
+          <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+           <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/fi-xnsuxx-tensorflow-1767380591.jpg" alt="Tensorflow-icon" width="65" height="65" />
+          <br>Tensorflow</a>
         </td>
         <td align="center" width="96">
-            <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/seaborn-logo-3491407845.png" alt="seaborn-icon" width="65" height="65" />
-          <br>Seaborn</a>
+            <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch-icon" width="65" height="65" />
+          <br>PyTorch</a>
         </td>
         <td align="center" width="96">
-            <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/vs.jpg" alt="vscode-icon" width="65" height="65" />
-          <br>VSCode</a>
+            <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">
+            <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/scikit-learn-logo.png" alt="scikit-learn-icon" width="65" height="65" />
+          <br>Sk-Learn</a>
         </td>
            <td align="center" width="96">
-               <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/aminobutyric/aminobutyric/blob/main/image/logo/mysql.png" alt="mysql-icon" width="65" height="65" />
-          <br>MySQL</a>
+               <a href="https://metabase.com/" target="_blank" rel="noopener noreferrer">
+               <img src="https://www.metabase.com/images/logo.svg" alt="metabase-icon" width="65" height="65" />
+          <br>Metabase</a>
         </td>
        <td align="center" width="96">
            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
@@ -154,4 +154,4 @@ As the field of natural language processing (NLP) evolves, large language models
 
 Feel free to explore my repositories to find more exciting projects!
 
-Let's connect and collaborate on interesting data science and machine learning projects. Looking forward to hearing from you!
+Let's connect and collaborate on interesting data engineering and machine learning projects. Looking forward to hearing from you!
