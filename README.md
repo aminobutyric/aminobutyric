@@ -53,10 +53,16 @@ I enjoy turning complex, high-volume data into dependable datasets for machine l
 
 ## What I work on
 
-```text
-Sources           Ingestion & storage        Processing             Serving
-MongoDB / APIs ──► MinIO · Bronze layer ──► Spark · Delta Lake ──► ClickHouse · ML
-                       Airflow orchestration · quality controls · observability
+```mermaid
+flowchart LR
+    sources["MongoDB · APIs"] --> storage["MinIO<br/>Bronze layer"]
+    storage --> processing["Spark · Delta Lake"]
+    processing --> serving["ClickHouse · ML"]
+
+    airflow["Airflow orchestration"] -.-> storage
+    airflow -.-> processing
+    quality["Quality controls"] -.-> processing
+    quality -.-> serving
 ```
 
 - **Lakehouse architecture:** Bronze/Silver/Gold layers, ACID transactions, schema enforcement, versioning, time travel, and curated downstream datasets.
